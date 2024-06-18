@@ -148,3 +148,6 @@ Recopilar y analizar datos para mejorar continuamente los servicios ofrecidos y 
 <br>
 
 [@DanielGarciaPluma](https://github.com/DanielGarciaPluma)
+
+[@sayuridbc]
+(https://github.com/sayuridbc)
