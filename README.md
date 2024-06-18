@@ -143,4 +143,7 @@ Recopilar y analizar datos para mejorar continuamente los servicios ofrecidos y 
 
 ## Autores
 
-[@ppyo1234](https://github.com/ppyo1234).
+[@ppyo1234](https://github.com/ppyo1234)
+
+[@DanielGarciaPluma]
+(https://github.com/DanielGarciaPluma)
