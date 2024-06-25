@@ -73,12 +73,13 @@ Recopilar y analizar datos para mejorar continuamente los servicios ofrecidos y 
 </ol>
 </p>
 <hr>
+<h3>  ORGANIGRAMA DE ROLES  </h3>
+<hr>
 
-![](https://github.com/DanielGarciaPluma/Puppies-Waiting/blob/main/Organigrama%20por%20ubicaci%C3%B3n%20-%20Mi%20organizaci%C3%B3n%20(1).png)|
+![](https://github.com/DanielGarciaPluma/Puppies-Waiting/blob/main/Organigrama%20por%20ubicaci%C3%B3n%20-%20Mi%20organizaci%C3%B3n%20(1).png)
  <hr>
 
-
-## Requerimientos Funcionales
+ ## <h1> Requerimientos Funcionales </h1>
 
 <p align = "justify">
 
