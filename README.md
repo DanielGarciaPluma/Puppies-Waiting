@@ -115,10 +115,14 @@ Recopilar y analizar datos para mejorar continuamente los servicios ofrecidos y 
 <hr>
 
 ## Identidad grafica 
+|**LOGO DE LA MARCA**                                                                      |**LOGO DEL PROYECTO**                                                              |
+|------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
+|![](https://github.com/ppyo1234/integradora-Practica02/blob/main/IMG-20240618-WA0000.jpg)|![](https://github.com/ppyo1234/integradora-Practica02/blob/main/IMG-20240618-WA0001.jpg)|
 
-![](https://github.com/ppyo1234/integradora-Practica02/blob/main/IMG-20240618-WA0000.jpg)
 
-![](https://github.com/ppyo1234/integradora-Practica02/blob/main/IMG-20240618-WA0001.jpg)
+
+
+
 
 <hr>
 
