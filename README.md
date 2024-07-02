@@ -123,8 +123,9 @@ Recopilar y analizar datos para mejorar continuamente los servicios ofrecidos y 
 </p>
 <hr>
 
+## paleta de colores 
 
-
+![](https://github.com/DanielGarciaPluma/Puppies-Waiting/blob/main/paleta%20de%20colores.jpg?raw=true)
 
 
 <hr>
