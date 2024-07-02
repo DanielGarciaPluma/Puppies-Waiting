@@ -156,10 +156,10 @@ Recopilar y analizar datos para mejorar continuamente los servicios ofrecidos y 
 
 ## Autores
 
-[@ppyo1234](https://github.com/ppyo1234)
+José Arturo Garcia González [@ppyo1234](https://github.com/ppyo1234)
 
 
-[@DanielGarciaPluma](https://github.com/DanielGarciaPluma)
+Carlos Daniel Garcia Pluma [@DanielGarciaPluma](https://github.com/DanielGarciaPluma)
 
   Sayurid Bautista Cruz [@sayuridbc](https://github.com/sayuridbc)
 
