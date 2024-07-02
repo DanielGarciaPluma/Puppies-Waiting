@@ -29,7 +29,7 @@ Se implementara una aplicación web en la cual se pueda ver información sobre r
 
 ## Objetivo general
 <p align = "justify">
-El objetivo general de "Puppies Waiting" es crear una plataforma web integral que sirva de puente eficaz entre refugios de perros, adoptantes potenciales y veterinarias. La finalidad es reducir el número de perros abandonados en las calles mediante la promoción y facilitación de su adopción, asegurando que cada perro rescatado reciba el cuidado y atención médica necesarios para una vida saludable y feliz en un nuevo hogar amoroso. Además, se busca sensibilizar y educar a la comunidad sobre la importancia de la adopción y el bienestar animal, contribuyendo así a la creación de una sociedad más consciente y comprometida con el cuidado y protección de las mascotas.
+Crear una plataforma web integral que sirva de puente eficaz entre refugios de perros, adoptantes potenciales y veterinarias. La finalidad es reducir el número de perros abandonados en las calles mediante la promoción y facilitación de su adopción, asegurando que cada perro rescatado reciba el cuidado y atención médica necesarios para una vida saludable y feliz en un nuevo hogar amoroso. Además, se busca sensibilizar y educar a la comunidad sobre la importancia de la adopción y el bienestar animal, contribuyendo así a la creación de una sociedad más consciente y comprometida con el cuidado y protección de las mascotas.
 </p>
 
 <hr>
@@ -123,7 +123,7 @@ Recopilar y analizar datos para mejorar continuamente los servicios ofrecidos y 
 </p>
 <hr>
 
-## paleta de colores 
+## Paleta de colores 
 
 ![](https://github.com/DanielGarciaPluma/Puppies-Waiting/blob/main/paleta%20de%20colores.jpg?raw=true)
 
