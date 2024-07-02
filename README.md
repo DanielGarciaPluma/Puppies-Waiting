@@ -1,5 +1,9 @@
 # Puppies-Waiting
 
+## Identidad grafica 
+|**LOGO DE LA MARCA**                                                                      |**LOGO DEL PROYECTO**                                                              |
+|------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
+|![](https://github.com/ppyo1234/integradora-Practica02/blob/main/IMG-20240618-WA0000.jpg)|![](https://github.com/ppyo1234/integradora-Practica02/blob/main/IMG-20240618-WA0001.jpg)|
 
 
 ## Descripción
@@ -118,12 +122,6 @@ Recopilar y analizar datos para mejorar continuamente los servicios ofrecidos y 
 
 </p>
 <hr>
-
-## Identidad grafica 
-|**LOGO DE LA MARCA**                                                                      |**LOGO DEL PROYECTO**                                                              |
-|------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
-|![](https://github.com/ppyo1234/integradora-Practica02/blob/main/IMG-20240618-WA0000.jpg)|![](https://github.com/ppyo1234/integradora-Practica02/blob/main/IMG-20240618-WA0001.jpg)|
-
 
 
 
