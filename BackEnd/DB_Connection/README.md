@@ -20,6 +20,6 @@
 |Integrante|Contacto|Rol|Observaciones|
 |------------|--------|---|---|
 |José Arturo Garcia Gonzalez|[@ppyo1234](https://github.com/ppyo1234)|Líder de BackEnd|✅ Revisado y aprobado.|
-|Carlos Daniel Garia Pluma|[@DanielGarciaPluma](https://github.com/DanielGarciaPluma)|Desarrollador BD|😔 No revisado.|
+|Carlos Daniel Garia Pluma|[@DanielGarciaPluma](https://github.com/DanielGarciaPluma)|DB-Manager|😔 No revisado.|
 |Dulce Yadira Salvador Antonio|[@Dul220509](https://github.com/Dul220509)|Documentador|😔 No revisado.|
 |Sayurid Bautista Cruz|[@Sayuridbc](https://github.com/sayuridbc)|Desarrollador Front end|😔 No revisado.|
