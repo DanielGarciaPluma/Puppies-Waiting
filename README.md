@@ -162,4 +162,5 @@ Carlos Daniel Garcia Pluma [@DanielGarciaPluma](https://github.com/DanielGarciaP
 
   Sayurid Bautista Cruz [@sayuridbc](https://github.com/sayuridbc)
 
-Dulce Yadira Salvado Antonio [@Dul220509](https://github.com/Dul220509)
+Dulce Yadira Salvador Antonio [@Dul220509](https://github.com/Dul220509)
+
